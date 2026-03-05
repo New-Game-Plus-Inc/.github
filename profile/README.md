@@ -17,7 +17,7 @@ This is the central hub for our engineering standards, onboarding, and project g
 All repositories require a Pull Request for any code change. 
 - A minimum of one approved review from the core team is required.
 - CI/CD checks must pass before merging.
-- PR titles must include the Jira Ticket ID (e.g., NGP-123: Add Login Logic).
+- PR titles must include the Jira Ticket ID.
 [View Detailed PR Guidelines](../standards/ENGINEERING.md)
 
 ### Issue & PRs
