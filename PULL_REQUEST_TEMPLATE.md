@@ -20,7 +20,7 @@
 
 ## Checklist
 - [ ] My code follows the engineering standards
-- [ ] I have used imperative mood in commit messages
-- [ ] I have updated documentation where necessary
-- [ ] My branch follows the naming convention: dev-[feature-name]-[Jira ID]
-- [ ] All public APIs are documented
+- [ ] Proper API's Documentation created with SWAGGER.
+- [ ] I have used imperative mood in commit messages.
+- [ ] I have updated documentation where necessary in JIRA.
+- [ ] My branch follows the naming convention: [Jira ID]-[feature-name]-dev
