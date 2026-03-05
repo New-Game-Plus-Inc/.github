@@ -18,13 +18,15 @@ All repositories require a Pull Request for any code change.
 - A minimum of one approved review from the core team is required.
 - CI/CD checks must pass before merging.
 - PR titles must include the Jira Ticket ID.
+- Branch names must follow the format: `dev-[feature-name]-[Jira ID]`
+- Use imperative mood for commit messages: "Add feature" not "Added feature"
 [View Detailed PR Guidelines](../standards/ENGINEERING.md)
 
 ### Issue & PRs
 To maintain parity with our Jira boards, please use the following labels on all GitHub Issues and PRs:
-- **bug**: Functional errors or regressions.
-- **story**: New feature development (linked to a Jira Story).
-- **task**: Maintenance or technical debt.
+- **bug**: Functional errors or regressions (Maintenance Epic).
+- **story**: New feature development - linked to a Jira Child (Development Epic).
+- **task**: Individual work items within a feature (Sub-Task).
 - **blocked**: External dependencies preventing progress.
 
 ### Communication
@@ -34,6 +36,6 @@ To maintain parity with our Jira boards, please use the following labels on all 
 ---
 
 ## Collaboration Rules
-1. **Always use PR Templates**: Every PR must fill out the provided checklist.
+1. **Always use PR Template**: Every PR must fill out the provided checklist.
 2. **Outside Collaborators**: Please refer to the [Partner Guidelines](../onboarding/EXTERNAL_TEAMS.md) before starting your first ticket.
 3. **Internal Review**: Internal leads are responsible for final merges to protected branches.
