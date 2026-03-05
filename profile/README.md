@@ -5,12 +5,35 @@ This is the central hub for our engineering standards, onboarding, and project g
 ---
 
 ## Quick Links
-- **[Engineering Standards](./standards/ENGINEERING.md)**: Coding style, PR protocols, and quality bars.
-- **[Security Policy](./standards/SECURITY.md)**: How we handle vulnerabilities and secrets.
-- **[Onboarding for Partners](./onboarding/EXTERNAL_TEAMS.md)**: How to get set up with our environment.
+- [Engineering Standards](../standards/ENGINEERING.md): Coding style, PR protocols, and quality bars.
+- [Security Policy](../standards/SECURITY.md): How we handle vulnerabilities and secrets.
+- [Onboarding for Partners](../onboarding/EXTERNAL_TEAMS.md): How to get set up with our environment.
 
+---
+
+## Global Standards Summary
+
+### Pull Request (PR) Protocol
+All repositories require a Pull Request for any code change. 
+- A minimum of one approved review from the core team is required.
+- CI/CD checks must pass before merging.
+- PR titles must include the Jira Ticket ID (e.g., NGP-123: Add Login Logic).
+[View Detailed PR Guidelines](../standards/ENGINEERING.md)
+
+### Issue & PRs
+To maintain parity with our Jira boards, please use the following labels on all GitHub Issues and PRs:
+- **bug**: Functional errors or regressions.
+- **story**: New feature development (linked to a Jira Story).
+- **task**: Maintenance or technical debt.
+- **blocked**: External dependencies preventing progress.
+
+### Communication
+- Technical discussions should occur within GitHub Issues or Discussions.
+- Urgent blockers should be reported via the established Slack/Teams channel.
+
+---
 
 ## Collaboration Rules
 1. **Always use PR Templates**: Every PR must fill out the provided checklist.
-2. **Outside Collaborators**: Please refer to the [Partner Guidelines](./onboarding/EXTERNAL_TEAMS.md) before starting your first ticket.
-3. **Communication**: All technical discussions happen in **GitHub Discussions** or **Slack #eng-general**.
+2. **Outside Collaborators**: Please refer to the [Partner Guidelines](../onboarding/EXTERNAL_TEAMS.md) before starting your first ticket.
+3. **Internal Review**: Internal leads are responsible for final merges to protected branches.
