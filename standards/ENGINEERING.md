@@ -1,13 +1,18 @@
 # Engineering Standards
 
 ## Coding Standards
-- **Language Consistency**: Follow established style guides (e.g., PEP 8 for Python, Airbnb for JavaScript).
-- **Formatting**: Use automated linters and formatters provided in the repository configuration.
+- **Language Consistency**: TBD
+- **Formatting**: TBD
 
 ## Pull Requests
-- **Branching**: Use Jira ID in branch names: `feature/NGP-123-short-description`.
+- **Branching**: Format new branches as: Dev-[feature-name]-[Jira ID].  
 - **Descriptions**: Provide a clear "why" behind the change in the PR body.
 - **Commits**: Use imperative mood: "Add user authentication" instead of "Added user authentication."
+
+## Jira Format (Epic / Child / Sub-Task)
+- Epic: Two categories; maintenance, and Development
+- Child: Feature
+- Sub-Task: Sprint within a feature
 
 ## Documentation
 - All public APIs must be documented.
