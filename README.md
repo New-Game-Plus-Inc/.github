@@ -10,7 +10,7 @@ This is the central hub for our engineering standards, onboarding, and project g
 - **[Onboarding for Partners](./onboarding/EXTERNAL_TEAMS.md)**: How to get set up with our environment.
 
 
-## 🤝 Collaboration Rules
+## Collaboration Rules
 1. **Always use PR Templates**: Every PR must fill out the provided checklist.
 2. **Outside Collaborators**: Please refer to the [Partner Guidelines](./onboarding/EXTERNAL_TEAMS.md) before starting your first ticket.
 3. **Communication**: All technical discussions happen in **GitHub Discussions** or **Slack #eng-general**.
