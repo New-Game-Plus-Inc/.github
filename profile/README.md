@@ -6,6 +6,7 @@ This is the central hub for our engineering standards, onboarding, and project g
 
 ## Quick Links
 - [Engineering Standards](../standards/ENGINEERING.md): Coding style, PR protocols, and quality bars.
+- [PR Template](../.github/PULL_REQUEST_TEMPLATE.md): Template for all pull requests.
 - [Security Policy](../standards/SECURITY.md): How we handle vulnerabilities and secrets.
 - [Onboarding for Partners](../onboarding/EXTERNAL_TEAMS.md): How to get set up with our environment.
 
