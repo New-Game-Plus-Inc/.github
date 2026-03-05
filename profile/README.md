@@ -19,7 +19,7 @@ All repositories require a Pull Request for any code change.
 - A minimum of one approved review from the core team is required.
 - CI/CD checks must pass before merging.
 - PR titles must include the Jira Ticket ID.
-- Branch names must follow the format: `dev-[feature-name]-[Jira ID]`
+- Branch names must follow the format: `[Jira ID]-[feature-name]-dev`
 - Use imperative mood for commit messages: "Add feature" not "Added feature"
 [View Detailed PR Guidelines](../standards/ENGINEERING.md)
 
