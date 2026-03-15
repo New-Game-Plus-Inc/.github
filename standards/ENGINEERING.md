@@ -5,7 +5,8 @@
 - **Formatting**: TBD
 
 ## Pull Requests
-- **Branching**: Format new branches as: [Jira ID]-[feature-name]-dev.  
+- **Branching**: See the full [Branching Workflow](BRANCHING_WORKFLOW.md) for environment promotion, feature, and hotfix branch strategies.
+- **Branch Naming**: All branches use the `ODY2-{project}` prefix. See [Branching Workflow — Naming Convention](BRANCHING_WORKFLOW.md#branch-naming-convention).
 - **Descriptions**: Provide a clear "why" behind the change in the PR body.
 - **PR Commits**: Use imperative mood: "Add user authentication" instead of "Added user authentication."
 
