@@ -6,6 +6,10 @@
 <!-- Link to the Jira ticket: [JIRA-ID] -->
 
 
+## Issue URL
+<!-- Link to the related GitHub issue: https://github.com/org/repo/issues/[issue-number] -->
+
+
 ## Type of Change
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -23,4 +27,4 @@
 - [ ] Proper API's Documentation created with SWAGGER.
 - [ ] I have used imperative mood in commit messages.
 - [ ] I have updated documentation where necessary in JIRA.
-- [ ] My branch follows the naming convention: [Jira ID]-[feature-name]-dev
+- [ ] My branch follows the naming convention: [Jira ID]-[service-short-name]-feature/[randomName]
