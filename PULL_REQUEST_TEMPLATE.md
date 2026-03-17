@@ -23,8 +23,8 @@
 
 
 ## Checklist
-- [ ] My code follows the engineering standards
-- [ ] Proper API's Documentation created with SWAGGER.
+- [ ] [My code follows the engineering standards](/Users/reid/Documents/GitHub/.github/standards/ENGINEERING.md)
+- [ ] Proper API's Documentation created with SWAGGER. (LINK TO SWAGGER DOC)
 - [ ] I have used imperative mood in commit messages.
 - [ ] I have updated documentation where necessary in JIRA.
 - [ ] My branch follows the naming convention: [Jira ID]-[service-short-name]-feature/[randomName]
